@@ -6,7 +6,7 @@
 
 HTML 是一种网页使用的语言，它定义了网页的结构和内容。其全名叫做“超文本标记语言”（HyperText Markup Language），由英国著名科学家李爵士（Tim Berners-Lee）于上世纪90年代初发明。
 
-![李爵士](C:\Users\Administrator\Desktop\homework\Lee.jpg)      
+ ![Lee](C:\Users\Administrator\Desktop\note\homework1\Lee.jpg)  
 
 ​                        **李爵士**                       
 
