@@ -72,7 +72,7 @@
 
   ***使用方式***： 
 
-  ​        使用hs或parcel打开html文件  **->**  在页面中打开开发者工具  **->**  点击network **->**  勾选  Preserve log  **->** 点击超链接  **->**  文件跳转后即可在Name **-->** Headers中查看跳转过程![](C:\Users\Administrator\Desktop\note\html\piture\1.png)
+  ​        使用hs或parcel打开html文件  **->**  在页面中打开开发者工具  **->**  点击network **->**  勾选  Preserve log  **->** 点击超链接  **->**  文件跳转后即可在Name **-->** Headers中查看跳转过程![](https://github.com/BenjaminWu-59/homework/blob/main/picture/1.png)
 
   
 
