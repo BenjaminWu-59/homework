@@ -295,7 +295,7 @@
 
   如：
 
-  ![](C:\Users\Administrator\Desktop\note\html\piture\2.png)
+  ![](https://github.com/BenjaminWu-59/homework/blob/main/picture/2.png)
   **target** 怎么打开页面，以a标签的target基本相同
 
   代码形式：
@@ -375,7 +375,7 @@
 ```
 ​       以上代码实际效果为：
 
-![](C:\Users\Administrator\Desktop\note\html\piture\3.png)
+![](https://github.com/BenjaminWu-59/homework/blob/main/picture/3.png)
 
 
 
